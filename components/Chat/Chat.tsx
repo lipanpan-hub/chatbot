@@ -169,12 +169,12 @@ export const Chat: FC<Props> = memo(
                   "If you don't have an OpenAI API key, you can get one here: ",
                 )}
                 <a
-                  href="https://platform.openai.com/account/api-keys"
+                  href="https://syno.lipanpanx.com:65473/"
                   target="_blank"
                   rel="noreferrer"
                   className="text-blue-500 hover:underline"
                 >
-                  openai.com
+                  lipanpanx.com
                 </a>
               </div>
             </div>
